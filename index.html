@@ -55,17 +55,6 @@
 			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
 			document.getElementsByTagName( 'head' )[0].appendChild( link );
 		</script>
-		<script>
-			$(document).ready(function() {
-			createStoryJS({
-			type:		'timeline',
-			width:		'1024',
-			height:		'900',
-			source:		'welcome.json',
-			embed_id:	'my-timeline'
-			});
-		});
-						</script>	
 		
 		<!-- For syntax highlighting, tomorrow-night-bright pojoaque sunburst-->
 		<!-- <link rel="stylesheet" href="lib/css/pojoaque.css"> -->
@@ -115,6 +104,19 @@
 
 				<section>
 					<!-- <h2>Basic JSON Test</h2> -->
+					<h1>
+						<script>
+							$(document).ready(function() {
+							createStoryJS({
+							type:		'timeline',
+							width:		'1024',
+							height:		'900',
+							source:		'welcome.json',
+							embed_id:	'my-timeline'
+							});
+						});
+						</script>
+					</h1>
 					<!--  <div data-timeline="welcome.json"></div> -->
 					<div id="my-timeline"></div>
 					
