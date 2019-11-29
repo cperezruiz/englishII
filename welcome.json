@@ -1,73 +1,40 @@
 { 
 	"timeline":
 	{
-		"headline":"Christian Pérez Biography in Timeline version",
+		"headline":"Christian Pérez Biography in timeline version",
 		"type":"default",
-		"startDate":"1888",
-		"text": "<p>TimelineJS is an open-source tool that enables you to build visually-rich interactive timelines and is available in 40 languages.</p><p>You're looking at an example of one right now.</p><p>Click on the arrow to the right to learn more.</p>",
+		"startDate":"1970",
+		"text": "I show the biography in timeline style",
 		"asset": {
-			"media":"http://2.bp.blogspot.com/-dxJbW0CG8Zs/TmkoMA5-cPI/AAAAAAAAAqw/fQpsz9GpFdo/s1600/voyage-dans-la-lune-1902-02-g.jpg",
-			"credit":"",
-			"caption":""
+			"media":"----",
+			"credit":"-----",
+			"caption":"---"
 		},
 		"date": [
     		{
-                "startDate":"1851",
-                "headline":"It's Easy to Make Your Own Timeline",
-                "text":"The TimelineJS Embed Generator makes it easy to add a timeline to your own site. Just copy our Google Spreadsheet template, add your events as rows in the spreadsheet, and use our <a href='#make'>generator tool</a> to generate the HTML you need to add to your site.",
+                "startDate":"1971",
+                "headline":"A couple in love",
+                "text":"<p>A beautiful couple brought their first child at Christmas and in the best year</p><p>That year was also born Winona Ryder and Mariah Carey.</p><p>This year Intel releases world's first microprocessor, the famous 4004.</p><p>Apollo 15 astronauts become the first to ride in a lunar rover a day after landing on the surface.</p>",
                 "asset":
                 {
-                    "media":"/static/welcome/step3.png",
-                    "credit":"",
-                    "caption":"Screenshot from TimelineJS Embed Generator tool (see below)"
+                    "media":"https://previews.123rf.com/images/stockgiu/stockgiu1809/stockgiu180901290/110407619-beautiful-couple-in-love-with-hearts-cartoon-vector-illustration-graphic-design.jpg",
+                    "credit":"https://www.123rf.com/profile_stockgiu",
+                    "caption":"Vector - Beautiful couple in love with hearts cartoon vector illustration graphic design"
                 }
             },
     		{
-                "startDate":"1871",
+                "startDate":"1971",
                 "headline":"Illustrate your Timeline with photos, videos, tweets and more.",
                 "text":"Timeline can automatically pull in photos, videos from YouTube or Vimeo, tweets, wikipedia entries, and many other media types to help tell your story.",
                 "asset":
                 {
-                    "media":"",
+                    "media":"http://2.bp.blogspot.com/-dxJbW0CG8Zs/TmkoMA5-cPI/AAAAAAAAAqw/fQpsz9GpFdo/s1600/voyage-dans-la-lune-1902-02-g.jpg",
                     "credit":"",
                     "caption":"Screenshot from TimelineJS Embed Generator tool (see below)"
                 }
             },
 			{
-                "startDate":"1899",
-                "headline":"YouTube video",
-                "text":"To add a YouTube video, just add a link to it in the media field. No embedding necessary. http://youtu.be/lIvftGgps24",
-                "asset":
-                {
-                    "media":"http://youtu.be/lIvftGgps24",
-                    "credit":"Georges Méliès",
-                    "caption":"Le portrait mystérieux"
-                }
-            },
-			{
-                "startDate":"1902",
-                "headline":"YouTube with no text",
-                "text":"",
-                "asset":
-                {
-                    "media":"http://youtu.be/7JDaOOw0MEE",
-                    "credit":"Georges Méliès",
-                    "caption":"A Trip to the Moon / Le Voyage dans la lune"
-                }
-            },
-			{
-                "startDate":"1902",
-                "headline":"Wikipedia",
-                "text":"Add a link to a <a href='http://en.wikipedia.org/wiki/A_Trip_to_the_Moon' target='_blank'>Wikipedia entry</a> in the media field to show an excerpt alongside your text.",
-                "asset":
-                {
-                    "media":"http://en.wikipedia.org/wiki/A_Trip_to_the_Moon",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-			{
-                "startDate":"1950,2,7",
+                "startDate":"1980,2,7",
                 "headline":"Blockquote",
                 "text":"This is an example of a blockquote. <br/>&lt;blockquote&gt;&ldquo;Just use html blockquotes in the media field.&rdquo;&lt;/blockquote&gt;",
                 "asset":
@@ -75,17 +42,6 @@
                     "media":"<blockquote>“You have brains in your head. You have feet in your shoes. You can steer yourself in any direction you choose. You're on your own, and you know what you know. And you are the guy who'll decide where to go.”</blockquote>",
                     "credit":"Dr. Seuss",
                     "caption":""
-                }
-            },
-			{
-                "startDate":"1960,2,7",
-                "headline":"Website",
-                "text":"This is an example of a website. Just paste a link to the site in the media field.",
-                "asset":
-                {
-                    "media":"http://www.w3schools.com/",
-                    "credit":"w3schools",
-                    "caption":"http://w3schools.com"
                 }
             },
 			{
