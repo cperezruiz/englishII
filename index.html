@@ -18,6 +18,25 @@
 		<link rel="stylesheet" href="css/reveal.css">
 		<link rel="stylesheet" href="plugin/diagram/revealjs-diagram.css">
 
+
+		<!-- jQuery -->
+		<script type="text/javascript" src="plugin/jquery/jquery.min.js"></script>
+		<!-- BEGIN TimelineJS -->
+		<script type="text/javascript" src="plugin/timelinejs/storyjs-embed.js"></script>
+		<!-- END TimelineJS -->
+
+		<script>
+			$(document).ready(function() {
+				createStoryJS({
+					type:		'timeline',
+					width:		'1400',
+					height:		'800',
+					source:		'welcome.json',
+					embed_id:	'my-timeline'
+				});
+			});
+		</script>			
+
 		
 		<!-- Tema estandar -->
 		<!-- <link rel="stylesheet" href="css/theme/beige.css" id="theme"> -->
@@ -122,8 +141,8 @@
 						</script>	
 					</h1>
 					-->
-					<div data-timeline="welcome.json"></div>
-					<!-- <div id="my-timeline"></div> -->
+					<!-- <div data-timeline="welcome.json"></div> -->
+					<div id="my-timeline"></div>
 				</section>
 						
 
@@ -207,11 +226,6 @@
 		<script src="lib/js/d3.js" type="text/javascript"></script>
 		<script src="lib/js/d3.min.js" type="text/javascript"></script>
 		<script src="lib/js/reveal.js"></script>	
-		<!-- jQuery -->
-		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-		<!-- BEGIN TimelineJS -->
-		<script type="text/javascript" src="https://cdn.knightlab.com/libs/timeline/latest/js/storyjs-embed.js"></script>
-		<!-- END TimelineJS -->
 
 		<!-- highlight.js is not part of reveal.js - it's a script to highlight code !-->
 		<!-- 
