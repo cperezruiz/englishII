@@ -4,11 +4,11 @@
 		"headline":"Christian Pérez Biography in timeline version",
 		"type":"default",
 		"startDate":"1970",
-		"text": "I show the biography in timeline style",
+		"text": "I show my biography in timeline style",
 		"asset": {
-			"media":"----",
-			"credit":"-----",
-			"caption":"---"
+			"media":"https://vignette.wikia.nocookie.net/negas/images/6/66/Captura_de_pantalla_completa_22092013_114925.bmp.jpg/revision/latest?cb=20130922150221&path-prefix=es",
+			"credit":"https://negas.fandom.com/es/wiki/Pitbull",
+			"caption":"Cartoon of a famous singer pitbull"
 		},
 		"date": [
     		{
