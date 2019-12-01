@@ -80,13 +80,24 @@
 			{
                 "startDate":"1995",
                 "headline":"Like a sun, a beautiful women change the game",
-                "text":"<p>Working in the army, he knows his future wife.".</p>",
+                "text":"<p>Working in the army, he knows his future wife.</p>",
                 "asset":
                 {
                     "media":"https://p7.hiclipart.com/preview/711/779/659/love-cartoon-romance-hug-cartoon-couple.jpg",
                     "credit":"HiClipart is an open community for users to share their favorite PNGs, all PNG cliparts in HiClipart are for Non-Commercial Use, no attribution required. If you are the author and find this PNG is shared without your permisson, DMCA report please Contact Us.",
                     "caption":"Love Cartoon Romance Hug, Cartoon couple, woman and man hugging illustration transparent background PNG clipart"
                 }
+			},
+			{
+                "startDate":"1996",
+                "headline":"And the family grown",
+                "text":"<p>The first son born, while </p>",
+                "asset":
+                {
+                    "media":"https://previews.123rf.com/images/sararoom/sararoom1611/sararoom161100026/66380173-vector-illustration-of-cartoon-baby-learn-to-crawl.jpg",
+                    "credit":"https://www.123rf.com/profile_sararoom",
+                    "caption":"Vector Illustration of Cartoon Baby learn to crawl"
+                }				
             }
         ]
     }
