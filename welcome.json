@@ -65,18 +65,18 @@
                     "credit":"By Jamie McIvor - BBC Scotland education correspondent",
                     "caption":"Scottish graduates ... "
                 }
-            },
+            },			
 			{
                 "startDate":"1991",
                 "headline":"First University experience",
-                "text":"<p>First studies in "Universidad Distrital".</p>",
+                "text":"<p>First studies in Universidad Distrital.</p> <p>He began to study in computer sciences.</p>",
                 "asset":
                 {
                     "media":"https://ichef.bbci.co.uk/news/660/cpsprodpb/C8D2/production/_105101415_mediaitem105101413.jpg",
                     "credit":"By Jamie McIvor - BBC Scotland education correspondent",
                     "caption":"Scottish graduates ... "
                 }
-            },			
+            },	
 			{
                 "startDate":"1995",
                 "headline":"Like a sun, a beautiful women change the game",
