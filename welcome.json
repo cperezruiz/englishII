@@ -65,7 +65,51 @@
                     "credit":"By Jamie McIvor - BBC Scotland education correspondent",
                     "caption":"Scottish graduates ... "
                 }
-            }
+            },
+			{
+                "startDate":"1991",
+                "headline":"First University experience",
+                "text":"<p>First studies in "Universidad Distrital".</p>",
+                "asset":
+                {
+                    "media":"https://ichef.bbci.co.uk/news/660/cpsprodpb/C8D2/production/_105101415_mediaitem105101413.jpg",
+                    "credit":"By Jamie McIvor - BBC Scotland education correspondent",
+                    "caption":"Scottish graduates ... "
+                }
+            },			
+			{
+                "startDate":"1995",
+                "headline":"Like a sun, a beautiful women change the game",
+                "text":"<p>Working in the army, he knows his future wife.</p>",
+                "asset":
+                {
+                    "media":"https://p7.hiclipart.com/preview/711/779/659/love-cartoon-romance-hug-cartoon-couple.jpg",
+                    "credit":"HiClipart is an open community for users to share their favorite PNGs, all PNG cliparts in HiClipart are for Non-Commercial Use, no attribution required. If you are the author and find this PNG is shared without your permisson, DMCA report please Contact Us.",
+                    "caption":"Love Cartoon Romance Hug, Cartoon couple, woman and man hugging illustration transparent background PNG clipart"
+                }
+			},
+			{
+                "startDate":"1996 - 2001",
+                "headline":"And the family grown",
+                "text":"<p>The son's born in this range of years. Great expectations and plans around the family with two new persons.</p>",
+                "asset":
+                {
+                    "media":"https://previews.123rf.com/images/sararoom/sararoom1611/sararoom161100026/66380173-vector-illustration-of-cartoon-baby-learn-to-crawl.jpg",
+                    "credit":"https://www.123rf.com/profile_sararoom",
+                    "caption":"Vector Illustration of Cartoon Baby learn to crawl"
+                }				
+            },
+			{
+                "startDate":"2005",
+                "headline":"Travels and business",
+                "text":"<p>While the family grows, business travels occur along south america. Peru, Argentina, Chile are the main destinations.</p>",
+                "asset":
+                {
+                    "media":"https://www.cleanpng.com/png-geography-of-south-america-latin-america-clip-art-1656451/preview.html",
+                    "credit":"https://www.cleanpng.com/users/@tusi.html",
+                    "caption":"South America Map"
+                }				
+            }			
         ]
     }
 }
